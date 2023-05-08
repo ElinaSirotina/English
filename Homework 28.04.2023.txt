@@ -1,0 +1,27 @@
+Elina Sirotina
+
+Multiple Choice:
+1. c. Designing the user interface and experience of a software application
+2. c. Designing the architecture of a software system and overseeing the entire development process
+3. d. A software developer focuses on writing code for specific features, while a software engineer has a more holistic approach to software development.
+
+Short Answer:
+1. The bug life cycle in software development typically includes the following stages:
+- Bug discovery: a bug is identified, either by a user or during testing.
+- Bug reporting: the bug is reported to the development team.
+- Bug triage: the development team evaluates the bug to determine its severity and priority.
+- Bug fixing: the development team fixes the bug.
+- Bug verification: the development team verifies that the bug has been fixed.
+- Bug closing: the bug is marked as closed.
+
+2. A front-end developer is responsible for creating the user interface and experience of a software application, while a back-end developer is responsible for creating and maintaining the server-side of a software application.
+
+Matching:
+1. a. Mobile app developer - i. Creating the user interface and experience of a software application
+2. b. Full-stack developer - ii. Responsible for both the front-end and back-end of a software application
+3. c. DevOps engineer - iii. Managing the infrastructure and deployment of software applications
+
+True/False:
+1. False
+2. False
+3. True
